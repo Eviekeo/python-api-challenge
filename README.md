@@ -21,7 +21,7 @@ The plt.annotate function was used in the above code to define a function that w
 https://stackoverflow.com/questions/68173773/how-to-annotate-maths-equation-in-graph-using-both-latex-and-f-string-formatting
 
 ## Code Source - used in VacationPY.ipynb
-hover_cols=['City', 'Hotel Name']
+        hover_cols=['City', 'Hotel Name']
 
 The above code was used to add the hotel name and the country as additional information in the hover message for each city in the map plotted. The code was sourced from the following stack overflow forum:
 https://stackoverflow.com/questions/59678780/show-extra-columns-when-hovering-in-a-scatter-plot-with-hvplot 
