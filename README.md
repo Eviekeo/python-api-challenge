@@ -5,7 +5,7 @@ As part of this module, we have explored if and how weather patterns are impacte
 
 
 ## Code Source - used in WeatherPY.ipynb
- slope, intercept, r, p, se = linregress(x, y)
+    slope, intercept, r, p, se = linregress(x, y)
  The above code was used to calculate the slope, intercept, r value, p value and standard error for inputted x and y variables. The code was sourced from the below site:
  https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html
  
